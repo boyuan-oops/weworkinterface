@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 from jsonpath import jsonpath
 from api.tag import Tag
